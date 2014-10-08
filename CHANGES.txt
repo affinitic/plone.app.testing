@@ -1,7 +1,7 @@
 Changelog
 =========
 
-3.0a2devCA2 (unreleased)
+3.0a2devCA2 (2014-10-08)
 ------------------------
 
 - Fix reinstallProcucts
